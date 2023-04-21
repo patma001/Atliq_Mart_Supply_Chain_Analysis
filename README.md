@@ -21,6 +21,10 @@ Peter Pandey’s notes taken during the stakeholder meeting
 # Tool
 Power BI
 
+# Dashboard
+![image](https://user-images.githubusercontent.com/129093930/233624002-a4e461e9-b5af-47a3-9746-9a834c378a03.png)
+
+
 # Insights
 - The OT (59.03%) is below the average target (86.09%) by 27.06%.
 - The IF (52.78%) is below the average target (76.51%) by 23.73%.
